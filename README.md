@@ -17,9 +17,13 @@ Implementação de um agente de Aprendizado por Reforço que aprende a jogar Fla
     cd PyGame-Learning-Environment/ 
     pip install -e .
     ```
-* [Gym-Ple](https://github.com/lusob/gym-ple)
-  * Biblioteca que implementa o ambiente Flappy Bird
-  * ```pip install gym_ple```
+* [Gym-Ple](https://github.com/GrupoTuringCodes/gym-ple)
+  * Biblioteca que padroniza o PLE para ambientes do gym
+  * ``` 
+    git clone https://github.com/GrupoTuringCodes/gym-ple.git
+    cd gym-ple/ 
+    pip install -e .
+    ```
 
 ## Agente em Funcionamento
 
