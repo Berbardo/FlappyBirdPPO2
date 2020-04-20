@@ -27,4 +27,4 @@ Implementação de um agente de Aprendizado por Reforço que aprende a jogar Fla
 
 ## Agente em Funcionamento
 
-![Agente Em Funcionamento](/img/FlappyBird.gif)
+![Agente Em Funcionamento](/img/flappy.gif)
